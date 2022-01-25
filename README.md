@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Output Image
+![image description](https://github.com/sumitdey1990/calendar-app-vuejs/blob/main/images/monthly-weather-app.png)
+
